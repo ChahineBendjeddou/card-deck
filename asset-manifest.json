@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/card-deck/static/css/main.4684cdc6.css",
+    "main.js": "/card-deck/static/js/main.14aa5faa.js",
+    "static/js/787.569654da.chunk.js": "/card-deck/static/js/787.569654da.chunk.js",
+    "index.html": "/card-deck/index.html",
+    "main.4684cdc6.css.map": "/card-deck/static/css/main.4684cdc6.css.map",
+    "main.14aa5faa.js.map": "/card-deck/static/js/main.14aa5faa.js.map",
+    "787.569654da.chunk.js.map": "/card-deck/static/js/787.569654da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4684cdc6.css",
+    "static/js/main.14aa5faa.js"
+  ]
+}
