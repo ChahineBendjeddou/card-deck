@@ -1,0 +1,7 @@
+.card{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    max-width: 200px;
+}
